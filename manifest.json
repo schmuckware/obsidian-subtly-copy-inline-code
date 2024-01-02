@@ -1,9 +1,9 @@
 {
 	"id": "subtly-copy-inline-code",
 	"name": "Subtly Copy Inline Code",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Allows an inline code block to be copied by clicking anywhere in the segment.",
+	"description": "Allows an inline code block to be copied by clicking anywhere in the segment. Disabled in editing mode.",
 	"author": "Louis Schmuck",
 	"authorUrl": "https://github.com/louisings",
 	"isDesktopOnly": false
