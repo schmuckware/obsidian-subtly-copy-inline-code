@@ -2,8 +2,3 @@
 p code:hover {
     cursor: pointer;
 }
-
-/* For now only works in reading mode */
-/* span.cm-inline-code:hover {
-    cursor: pointer;
-} */
